@@ -24,7 +24,6 @@ namespace ConsoleApp6
         {
         Week ofis1 = Week.Tuesday | Week.Wednesday | Week.Thursday | Week.Friday;
         Week ofis2 = Week.Tuesday | Week.Wednesday | Week.Thursday | Week.Friday | Week.Monday | Week.Saturday | Week.Sunday;
-
         Console.WriteLine("Введите номер офиса");
          int nomerofisa = Convert.ToInt32(Console.ReadLine());
 
