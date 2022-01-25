@@ -16,7 +16,6 @@ namespace ConsoleApp5
             int maxpolz = Convert.ToInt32(Console.ReadLine());
             int sredtemp = (minpolz + maxpolz) / 2;
 
-
             Console.WriteLine("Какой номер текущего месяца?");
             int nomermonth = Convert.ToInt32(Console.ReadLine());
             switch (nomermonth)
