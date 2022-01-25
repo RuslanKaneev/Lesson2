@@ -17,7 +17,6 @@ namespace ConsoleApp3
             double summapokupki = 110000.01;
             double summapokupki1 = 00.01;
             double vsego = summapokupki + summapokupki1;
-
             int nomercheka = 145777;
             int kkmchislo = 180000000;
             int innchiclo = 770000000;

@@ -53,7 +53,6 @@ namespace ConsoleApp2
                 default:
                     Console.WriteLine("Укажите номер текущего месяца от 1 до 12");
                     break;
-
             }
             Console.ReadKey();
         }
