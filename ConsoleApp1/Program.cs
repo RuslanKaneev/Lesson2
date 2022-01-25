@@ -13,7 +13,6 @@ namespace ConsoleApp1
             Console.WriteLine("Введите число");
             int chislopolz = Convert.ToInt32(Console.ReadLine());
             int chislo = chislopolz % 2;
-            
             if (chislo == 0)
             {
                 Console.WriteLine($"Число четное");
