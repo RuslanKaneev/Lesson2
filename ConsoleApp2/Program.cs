@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Какой номер текущего месяца?");
+
             int nomermonth = Convert.ToInt32(Console.ReadLine());
             switch (nomermonth)
             {
