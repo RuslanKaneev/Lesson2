@@ -18,7 +18,6 @@ namespace ConsoleApp4
             Console.WriteLine(sredtemp);
             Console.ReadKey();
             
-
         }
     }
 }
